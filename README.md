@@ -1,0 +1,1 @@
+# localiza-o-de-objeto
